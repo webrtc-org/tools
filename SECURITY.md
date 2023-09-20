@@ -22,5 +22,6 @@ declined, etc.
 
 [![Microsoft Defender For Devops](https://github.com/webrtc-org/tools/actions/workflows/defender-for-devops.yml/badge.svg)](https://github.com/webrtc-org/tools/actions/workflows/defender-for-devops.yml)
 [![OSSAR](https://github.com/webrtc-org/tools/actions/workflows/ossar.yml/badge.svg)](https://github.com/webrtc-org/tools/actions/workflows/ossar.yml)
+[![PSScriptAnalyzer](https://github.com/webrtc-org/tools/actions/workflows/powershell.yml/badge.svg)](https://github.com/webrtc-org/tools/actions/workflows/powershell.yml)
 
 https://gist.github.com/gilbertalgordo
