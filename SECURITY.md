@@ -21,4 +21,5 @@ reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
 [![PSScriptAnalyzer](https://github.com/webrtc-org/tools/actions/workflows/powershell.yml/badge.svg?branch=main)](https://github.com/webrtc-org/tools/actions/workflows/powershell.yml)
 [![OSSAR](https://github.com/webrtc-org/tools/actions/workflows/ossar.yml/badge.svg)](https://github.com/webrtc-org/tools/actions/workflows/ossar.yml)
+[![PSScriptAnalyzer](https://github.com/webrtc-org/tools/actions/workflows/powershell.yml/badge.svg)](https://github.com/webrtc-org/tools/actions/workflows/powershell.yml)
 https://gist.github.com/gilbertalgordo
